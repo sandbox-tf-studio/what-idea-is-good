@@ -33,6 +33,27 @@
 
 아이디어 설명!!
 
+1. 기능
+
+- 화상 회의 기능
+- 채팅 및 메신저 기능
+- 화이트 보드 기능
+- 캘린더 기능
+- Todo 리스트 기능
+
+2. 기술
+
+- 프론트엔드: React, JavaScript, Tailwindcss, Storybook
+- 상태관리: Zustand
+- 기타
+  - 버전 관리: Git & GitHub
+  - 커뮤니케이션: Slack
+  - 배포: Vercel
+
+3. 추후
+
+- 통계 생성 기능
+
 ## 인스타그램
 
 아이디어 설명!!
